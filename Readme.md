@@ -9,7 +9,7 @@
 
 <h3 align="center">⭐ Star us on GitHub — Your appreciation makes us grow and glow up! ⭐</h3>
 
-## The Problem it solves ☮️
+<!-- ## The Problem it solves ☮️
 
 
 ## Challenges we ran into 🕊️
@@ -36,4 +36,4 @@ The Application Runs on **localhost:3000**
 
 ## Screenshots 📸
 
-## Video
+## Video -->
